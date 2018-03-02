@@ -1,1 +1,2 @@
-1. nowa funkconalnoœæ na branchu new_branch
+1. nowa funkconalnoœæ na branchu master
+
